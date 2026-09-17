@@ -2,7 +2,7 @@
   "system": "منظومة التقييم والتمكين وسجل الغياب",
   "school": "متوسطة أبها الأهلية للبنين",
   "version": 51,
-  "lastUpdated": "2026-09-17T15:33:40.691Z",
+  "lastUpdated": "2026-09-17T15:33:46.596Z",
   "updatedBy": "client_5161mhe_1789659183996",
   "totalStudentsRecorded": 258,
   "evaluations": {
@@ -9984,7 +9984,7 @@
         "note": "متميز",
         "isRecorded": true,
         "isManualNote": true,
-        "updatedAt": "2026-09-14T07:05:41.927Z"
+        "updatedAt": "2026-09-17T15:33:41.307Z"
       },
       "english": {
         "skills": {
@@ -10451,7 +10451,7 @@
         "note": "متميز",
         "isRecorded": true,
         "isManualNote": true,
-        "updatedAt": "2026-09-14T07:05:53.329Z"
+        "updatedAt": "2026-09-17T15:33:43.091Z"
       },
       "english": {
         "skills": {
