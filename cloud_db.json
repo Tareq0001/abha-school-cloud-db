@@ -2,8 +2,8 @@
   "system": "منظومة التقييم والتمكين وسجل الغياب",
   "school": "متوسطة أبها الأهلية للبنين",
   "version": 51,
-  "lastUpdated": "2026-09-17T16:37:39.580Z",
-  "updatedBy": "client_jes23r7_1789662950718",
+  "lastUpdated": "2026-09-17T16:55:43.220Z",
+  "updatedBy": "client_aeqlfy2_1789664096002",
   "totalStudentsRecorded": 258,
   "evaluations": {
     "1026193579": {
@@ -3643,7 +3643,7 @@
         "note": "ما شاء الله تبارك الله، فصاحة لغوية وتمكن بارع وشامل في القراءة والكتابة والإملاء، مع مشاركة متميزة وسلوك رفيع.",
         "isRecorded": true,
         "isManualNote": false,
-        "updatedAt": "2026-09-17T11:45:48.991Z"
+        "updatedAt": "2026-09-17T16:40:32.893Z"
       },
       "math": {
         "skills": {
