@@ -2,7 +2,7 @@
   "system": "منظومة التقييم والتمكين وسجل الغياب",
   "school": "متوسطة أبها الأهلية للبنين",
   "version": 51,
-  "lastUpdated": "2026-09-17T17:33:18.420Z",
+  "lastUpdated": "2026-09-17T17:33:27.206Z",
   "updatedBy": "client_gptxks5_1789665554959",
   "totalStudentsRecorded": 259,
   "evaluations": {
@@ -162,7 +162,7 @@
         "behavior": 4,
         "note": "يحتاج إلى خطة مساندة وتكثيف المتابعة في الكتابة والإملاء (Writing & Spelling) والتحدث والاستماع والمحادثة (Speaking & Listening)، مع ضرورة تشجيعه على التفاعل والمشاركة الصفية.",
         "isRecorded": true,
-        "updatedAt": "2026-09-17T11:20:18.371Z",
+        "updatedAt": "2026-09-17T17:33:23.697Z",
         "isManualNote": false
       },
       "science": {
