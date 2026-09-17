@@ -1,9 +1,9 @@
 {
   "system": "منظومة التقييم والتمكين وسجل الغياب",
   "school": "متوسطة أبها الأهلية للبنين",
-  "version": 51,
-  "lastUpdated": "2026-09-17T11:33:56.806Z",
-  "updatedBy": "client_rbhpas8_1789644833287",
+  "version": 52,
+  "lastUpdated": "2026-09-17T11:45:00.000Z",
+  "updatedBy": "ADMIN_CLASSERA_ATTENDANCE_IMPORT",
   "totalStudentsRecorded": 258,
   "evaluations": {
     "1026193579": {
@@ -9216,2069 +9216,2069 @@
     }
   },
   "attendance": {
-    "1026193579": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1047354269": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1136437138": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1142905783": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1146495609": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1149569194": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1150333156": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1153785710": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1155017752": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1155587353": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1155643222": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1156131722": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1156198416": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1156227736": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1156359307": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1156499943": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1156620196": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1156959536": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1157586064": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1157693266": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1157811470": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1157864230": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1157928993": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1157995209": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1158044592": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1158114460": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1158166561": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1158187235": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1158202447": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1158224582": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1158460335": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1158468932": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1158539146": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1158572139": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1158585835": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1158619302": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1158844223": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1158982775": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159010890": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1159022472": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159022951": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159102613": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159127883": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159157576": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159174844": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159288388": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159391457": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159476538": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1159526886": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1159532173": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1159538584": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159628844": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1159638277": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1159734035": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159755683": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1159776739": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1159777779": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159849551": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1159939584": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159954385": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1159976033": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1160145786": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1160156905": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1160169487": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1160295208": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1160340079": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1160343420": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1160444087": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1160499834": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1160551760": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1160634703": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1160789325": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1160789326": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1160863963": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1161109739": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161143639": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1161196793": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161467103": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161467244": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161479579": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1161497076": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161499189": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1161504962": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1161562522": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1161593031": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1161624474": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1161672122": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1161686108": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1161701287": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161713548": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161747470": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1161803125": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1161821903": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1161859770": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1161862248": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1161878192": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1161947187": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162067043": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162159907": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1162263790": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1162320111": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1162364169": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162367724": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1162399198": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162482102": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162518813": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1162539510": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162575011": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162653636": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162743536": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162773236": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1162804775": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162807762": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162821886": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1162881260": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1162898058": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163002064": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163074782": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1163151838": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163289307": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163353863": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163355413": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163363103": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163414707": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163513912": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1163535535": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163585092": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163641812": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1163719675": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1163770134": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163802406": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1163817394": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1163861030": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1163907031": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1163952177": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1164011940": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164051722": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1164199141": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164575316": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164585521": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164614628": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164629543": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1164706879": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1164742718": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1164747410": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1164810176": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1164871707": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1164901538": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1164914259": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1164925644": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1164929589": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1164999300": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1165162197": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1165291400": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1165311604": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1165319797": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1165321009": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1165571157": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1165632240": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1165707901": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1165729722": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1165769058": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1165843481": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1165908946": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1166022655": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166103730": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166180529": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166253987": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1166346350": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166446342": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166453058": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1166468239": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1166473114": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1166494185": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1166512127": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1166512804": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1166697274": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1166787795": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1166845262": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1167048634": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1167127263": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1167133493": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1167146262": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1167194602": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1167264025": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1167308764": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1167328672": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1167380119": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1167588100": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1167761822": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1167767759": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1167793320": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168013496": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168043329": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1168108189": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1168131157": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1168195376": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1168282867": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168303326": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168554671": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168559423": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168619516": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1168817227": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1168824280": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1169057661": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1169087754": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1169132832": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1169150149": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1169157680": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1169204383": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1169223308": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1169251962": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1169378716": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1169404215": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1169439534": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1169541180": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1169594163": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1169690508": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1169692660": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1170233991": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1170260960": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1170305513": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1170330466": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "1170511388": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1170560971": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1170649683": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1170897830": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1170922652": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1171139827": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "1171139868": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
     "1171320565": {
-      "absentDays": 0,
+      "absentDays": 2,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.279Z"
-    },
-    "1171493446": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1171560717": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1171582321": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
     "1171605180": {
-      "absentDays": 0,
+      "absentDays": 3,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1171981946": {
-      "absentDays": 0,
+    "1161624474": {
+      "absentDays": 4,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1172085036": {
-      "absentDays": 0,
+    "1161593031": {
+      "absentDays": 3,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1172219148": {
-      "absentDays": 0,
+    "1160789325": {
+      "absentDays": 1,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1172412005": {
-      "absentDays": 0,
+    "1167761822": {
+      "absentDays": 3,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1172480702": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
+    "1161499189": {
+      "absentDays": 8,
+      "excusedDays": 1,
+      "unexcusedDays": 7,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 7",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1172512335": {
-      "absentDays": 0,
+    "1158460335": {
+      "absentDays": 4,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1173119239": {
-      "absentDays": 0,
+    "1162263790": {
+      "absentDays": 2,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1173639764": {
-      "absentDays": 0,
+    "1169692660": {
+      "absentDays": 3,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1173661917": {
-      "absentDays": 0,
+    "1169594163": {
+      "absentDays": 3,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1174000123": {
-      "absentDays": 0,
+    "1161479579": {
+      "absentDays": 6,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1142905783": {
+      "absentDays": 11,
+      "excusedDays": 0,
+      "unexcusedDays": 11,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (11 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164051722": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
     "1174101731": {
-      "absentDays": 0,
+      "absentDays": 2,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1176133965": {
-      "absentDays": 0,
+    "1158844223": {
+      "absentDays": 2,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-07",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1176166310": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
+    "1169204383": {
+      "absentDays": 7,
+      "excusedDays": 3,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "بعذر: 3 | بدون عذر: 4",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "1177147194": {
-      "absentDays": 0,
+    "1160444087": {
+      "absentDays": 2,
       "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "1184214672": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.284Z"
-    },
-    "1184389341": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "1189722445": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
-    },
-    "2320791243": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.282Z"
-    },
-    "2362102572": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
-    },
-    "2362972635": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
-    },
-    "2363926526": {
-      "absentDays": 0,
-      "excusedDays": 0,
-      "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.281Z"
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
     "2393986555": {
       "absentDays": 0,
       "excusedDays": 0,
       "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.280Z"
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     },
-    "2429166447": {
+    "1159638277": {
+      "absentDays": 7,
+      "excusedDays": 0,
+      "unexcusedDays": 7,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (7 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170330466": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1176133965": {
+      "absentDays": 5,
+      "excusedDays": 1,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 4",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165707901": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157811470": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163907031": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164914259": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167194602": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167328672": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162367724": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1189722445": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159010890": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162320111": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-07",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156359307": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159532173": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-06",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164742718": {
+      "absentDays": 11,
+      "excusedDays": 0,
+      "unexcusedDays": 11,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (11 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165908946": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1155643222": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-08-31",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156959536": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167264025": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156198416": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "2363926526": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161562522": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164706879": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168043329": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166512804": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168108189": {
+      "absentDays": 3,
+      "excusedDays": 1,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-13",
+      "notes": "بعذر: 1 | بدون عذر: 2",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162743536": {
+      "absentDays": 5,
+      "excusedDays": 1,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 4",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160499834": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157864230": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163513912": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170560971": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1172512335": {
+      "absentDays": 4,
+      "excusedDays": 3,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 3 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163817394": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1149569194": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162575011": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166787795": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161504962": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162364169": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1026193579": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161878192": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170511388": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158166561": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162821886": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156620196": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165571157": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162067043": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167127263": {
       "absentDays": 0,
       "excusedDays": 0,
       "unexcusedDays": 0,
-      "lastUpdated": "1448/08/18",
-      "notes": "سجل حضور منضبط",
-      "updatedAt": "2026-09-17T11:07:18.283Z"
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169690508": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162804775": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1176166310": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158572139": {
+      "absentDays": 9,
+      "excusedDays": 0,
+      "unexcusedDays": 9,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (9 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169057661": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169150149": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171981946": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-06",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1146495609": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159628844": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158187235": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168817227": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166697274": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161862248": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-09",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167588100": {
+      "absentDays": 2,
+      "excusedDays": 1,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "2362972635": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164871707": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166512127": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161143639": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160145786": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1177147194": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162482102": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163641812": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163363103": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165769058": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157693266": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160156905": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-09",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167146262": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162881260": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158044592": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168619516": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162653636": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168559423": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162399198": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156131722": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162539510": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170922652": {
+      "absentDays": 7,
+      "excusedDays": 0,
+      "unexcusedDays": 7,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (7 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161686108": {
+      "absentDays": 6,
+      "excusedDays": 1,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 5",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1150333156": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165632240": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-09",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164747410": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168303326": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171139868": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1153785710": {
+      "absentDays": 3,
+      "excusedDays": 2,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "بعذر: 2 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167767759": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-09",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157586064": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163414707": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159755683": {
+      "absentDays": 3,
+      "excusedDays": 2,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-08",
+      "notes": "بعذر: 2 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162807762": {
+      "absentDays": 8,
+      "excusedDays": 0,
+      "unexcusedDays": 8,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (8 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167793320": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161947187": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169439534": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164629543": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1136437138": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162898058": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163952177": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170305513": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167133493": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158202447": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163355413": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160863963": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159526886": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159776739": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170260960": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171493446": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168013496": {
+      "absentDays": 3,
+      "excusedDays": 2,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 2 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163151838": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159476538": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158114460": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169157680": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "2320791243": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-31",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1184389341": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168554671": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165729722": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161672122": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168282867": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166494185": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-07",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163535535": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157995209": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164199141": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161821903": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166473114": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165843481": {
+      "absentDays": 7,
+      "excusedDays": 0,
+      "unexcusedDays": 7,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (7 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166453058": {
+      "absentDays": 11,
+      "excusedDays": 0,
+      "unexcusedDays": 11,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (11 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159976033": {
+      "absentDays": 10,
+      "excusedDays": 0,
+      "unexcusedDays": 10,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (10 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169404215": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-02",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167380119": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165291400": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158982775": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158539146": {
+      "absentDays": 2,
+      "excusedDays": 1,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "بعذر: 1 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163585092": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162159907": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160340079": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165311604": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160343420": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159954385": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-07",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170233991": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160634703": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1173639764": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171139827": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158468932": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1047354269": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164011940": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163289307": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160551760": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1174000123": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159538584": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1172412005": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1173119239": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166845262": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168824280": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163802406": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162518813": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163353863": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1155017752": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168131157": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-08-30",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163002064": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163770134": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164585521": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169132832": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170649683": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169223308": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164614628": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169541180": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1157928993": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159127883": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "2429166447": {
+      "absentDays": 2,
+      "excusedDays": 1,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-13",
+      "notes": "بعذر: 1 | بدون عذر: 1",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1170897830": {
+      "absentDays": 7,
+      "excusedDays": 0,
+      "unexcusedDays": 7,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (7 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161747470": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1155587353": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164925644": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156499943": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167048634": {
+      "absentDays": 5,
+      "excusedDays": 1,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-10",
+      "notes": "بعذر: 1 | بدون عذر: 4",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166253987": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "2362102572": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1168195376": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165162197": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159157576": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159102613": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159939584": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171582321": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161859770": {
+      "absentDays": 3,
+      "excusedDays": 1,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-13",
+      "notes": "بعذر: 1 | بدون عذر: 2",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164575316": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163861030": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161713548": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1156227736": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165321009": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161109739": {
+      "absentDays": 4,
+      "excusedDays": 1,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 3",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159777779": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161497076": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1184214672": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159022951": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169251962": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160169487": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161803125": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158224582": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1171560717": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159174844": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164999300": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-13",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166103730": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164901538": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169087754": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1169378716": {
+      "absentDays": 3,
+      "excusedDays": 1,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 2",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1172085036": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166022655": {
+      "absentDays": 5,
+      "excusedDays": 1,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "بعذر: 1 | بدون عذر: 4",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158585835": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163719675": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159734035": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1172480702": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1167308764": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159391457": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159288388": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-08-30",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161701287": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-09",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164810176": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160789326": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1173661917": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1160295208": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161467103": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-08",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1163074782": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-09-03",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1164929589": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159849551": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-06",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161467244": {
+      "absentDays": 1,
+      "excusedDays": 0,
+      "unexcusedDays": 1,
+      "lastUpdated": "2026-08-27",
+      "notes": "غياب غير مبرر (1 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166180529": {
+      "absentDays": 5,
+      "excusedDays": 0,
+      "unexcusedDays": 5,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (5 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166346350": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-01",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1159022472": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1165319797": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1172219148": {
+      "absentDays": 3,
+      "excusedDays": 0,
+      "unexcusedDays": 3,
+      "lastUpdated": "2026-09-10",
+      "notes": "غياب غير مبرر (3 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1158619302": {
+      "absentDays": 8,
+      "excusedDays": 0,
+      "unexcusedDays": 8,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (8 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1162773236": {
+      "absentDays": 6,
+      "excusedDays": 0,
+      "unexcusedDays": 6,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (6 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166446342": {
+      "absentDays": 4,
+      "excusedDays": 0,
+      "unexcusedDays": 4,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (4 أيام)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1166468239": {
+      "absentDays": 2,
+      "excusedDays": 0,
+      "unexcusedDays": 2,
+      "lastUpdated": "2026-09-14",
+      "notes": "غياب غير مبرر (2 يوم)",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
+    },
+    "1161196793": {
+      "absentDays": 0,
+      "excusedDays": 0,
+      "unexcusedDays": 0,
+      "lastUpdated": "2026-09-14",
+      "notes": "سجل حضور منضبط 100%",
+      "updatedAt": "2026-09-17T11:45:00.000Z"
     }
   }
 }
