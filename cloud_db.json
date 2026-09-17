@@ -2,8 +2,8 @@
   "system": "منظومة التقييم والتمكين وسجل الغياب",
   "school": "متوسطة أبها الأهلية للبنين",
   "version": 51,
-  "lastUpdated": "2026-09-17T15:35:07.716Z",
-  "updatedBy": "client_xney4yu_1789659258983",
+  "lastUpdated": "2026-09-17T15:35:20.242Z",
+  "updatedBy": "client_ba8ulof_1789659181237",
   "totalStudentsRecorded": 258,
   "evaluations": {
     "1026193579": {
@@ -9891,7 +9891,7 @@
         "behavior": 5,
         "note": "تميز استثنائي وشغف علمي بارز واستيعاب عميق للتجارب، مع مشاركة صفية فاعلة وانضباط سلوكي راقٍ.",
         "isRecorded": true,
-        "updatedAt": "2026-09-17T15:34:17.835Z"
+        "updatedAt": "2026-09-17T15:34:18.393Z"
       },
       "math": {
         "skills": {
