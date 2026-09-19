@@ -1,0 +1,85 @@
+{
+  "الأول متوسط": {
+    "الأحد": {
+      "1": {
+        "period": 1,
+        "subject": "المهارات الرقمية",
+        "teacher": "أ. طارق ابوعشي",
+        "lesson": "الوحدة الثانية: التنسيق المتقدم للجداول وقواعد البيانات وإدراج المخططات البيانية.",
+        "hasHomework": true,
+        "homework": "تطبيق التمرين العملي في صفحة 48 وحل تدريب المنصة التفاعلية.",
+        "dueDate": "الحصة القادمة",
+        "deliveryMethod": "منصة مدرستي / المنصة التفاعلية",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "2": {
+        "period": 2,
+        "subject": "الرياضيات",
+        "teacher": "معلم الرياضيات",
+        "lesson": "درس: حل المعادلات الخطية ذات الخطوتين وتمثيلها بيانياً.",
+        "hasHomework": true,
+        "homework": "حل تدرب وحل المسائل ص 34 (الفقرات 2، 4، 6) في دفتر الرياضيات.",
+        "dueDate": "غداً الإثنين",
+        "deliveryMethod": "دفتر الواجب",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "3": {
+        "period": 3,
+        "subject": "لغتي الخالدة",
+        "teacher": "معلم لغتي",
+        "lesson": "نص الاستماع وتحليل الأساليب اللغوية وأسلوب الاستفهام والتمني.",
+        "hasHomework": false,
+        "homework": "",
+        "dueDate": "",
+        "deliveryMethod": "",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "4": {
+        "period": 4,
+        "subject": "العلوم",
+        "teacher": "معلم العلوم",
+        "lesson": "استقصاء علمي: مقارنة الخلايا النباتية والحيوانية تحت المجهر المركب.",
+        "hasHomework": true,
+        "homework": "رسم وتسمية أجزاء الخلية النباتية في كراسة الأنشطة ص 28.",
+        "dueDate": "الحصة القادمة",
+        "deliveryMethod": "كتاب النشاط",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "5": {
+        "period": 5,
+        "subject": "الدراسات الإسلامية",
+        "teacher": "معلم الدراسات الإسلامية",
+        "lesson": "تفسير سورة الحجرات (الآيات 11 - 13) وأثر الأخلاق في المجتمع المسلم.",
+        "hasHomework": false,
+        "homework": "",
+        "dueDate": "",
+        "deliveryMethod": "",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "6": {
+        "period": 6,
+        "subject": "اللغة الإنجليزية",
+        "teacher": "English Teacher",
+        "lesson": "Unit 3: What Day Is Today? Vocabulary & Grammar Practice.",
+        "hasHomework": true,
+        "homework": "Workbook Page 22 (Exercises A & B).",
+        "dueDate": "Tomorrow",
+        "deliveryMethod": "Workbook",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      },
+      "7": {
+        "period": 7,
+        "subject": "الدراسات الاجتماعية",
+        "teacher": "معلم الاجتماعيات",
+        "lesson": "ملوك المملكة العربية السعودية وإنجازات التأسيس والبناء الحضاري.",
+        "hasHomework": false,
+        "homework": "",
+        "dueDate": "",
+        "deliveryMethod": "",
+        "updatedAt": "2026-09-19T05:00:00.000Z"
+      }
+    }
+  },
+  "الثاني متوسط": {},
+  "الثالث متوسط": {}
+}
